@@ -1,0 +1,16 @@
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\bin\Debug\net8.0\System_BLL.deps.json
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\bin\Debug\net8.0\System_BLL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\bin\Debug\net8.0\System_BLL.pdb
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\bin\Debug\net8.0\System_DAL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\bin\Debug\net8.0\System_DAL.pdb
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.csproj.AssemblyReference.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.AssemblyInfoInputs.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.AssemblyInfo.cs
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.sourcelink.json
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.csproj.Up2Date
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\refint\System_BLL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\System_BLL.pdb
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_BLL\obj\Debug\net8.0\ref\System_BLL.dll

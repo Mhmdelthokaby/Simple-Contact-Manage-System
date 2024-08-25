@@ -1,0 +1,15 @@
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\bin\Debug\net8.0\System_DAL.deps.json
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\bin\Debug\net8.0\System_DAL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\bin\Debug\net8.0\System_DAL.pdb
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.csproj.AssemblyReference.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.AssemblyInfoInputs.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.AssemblyInfo.cs
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.sourcelink.json
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\refint\System_DAL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.pdb
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\ref\System_DAL.dll
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\bin\Debug\net8.0\System_DAL.runtimeconfig.json
+C:\Users\Mohamed Emad\Desktop\.Net\Simple_Contact_Manage_System_Solution\System_DAL\obj\Debug\net8.0\System_DAL.genruntimeconfig.cache

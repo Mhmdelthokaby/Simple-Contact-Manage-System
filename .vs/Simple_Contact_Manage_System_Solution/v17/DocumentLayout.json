@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\simple_contact_manage_system\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|solutionrelative:simple_contact_manage_system\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\simple_contact_manage_system\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|solutionrelative:simple_contact_manage_system\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10562B26-4A57-4240-9D2E-4A208948B17F}|System_BLL\\System_BLL.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\system_bll\\repositories\\contactsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10562B26-4A57-4240-9D2E-4A208948B17F}|System_BLL\\System_BLL.csproj|solutionrelative:system_bll\\repositories\\contactsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10562B26-4A57-4240-9D2E-4A208948B17F}|System_BLL\\System_BLL.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\system_bll\\interfaces\\icontactsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10562B26-4A57-4240-9D2E-4A208948B17F}|System_BLL\\System_BLL.csproj|solutionrelative:system_bll\\interfaces\\icontactsrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\simple_contact_manage_system\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|solutionrelative:simple_contact_manage_system\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\simple_contact_manage_system\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|solutionrelative:simple_contact_manage_system\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|c:\\users\\mohamed emad\\desktop\\.net\\simple_contact_manage_system_solution\\simple_contact_manage_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2C0238-0705-4C0D-8BE9-3A3A7931126F}|Simple_Contact_Manage_System\\Simple_Contact_Manage_System.csproj|solutionrelative:simple_contact_manage_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContactsRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\System_BLL\\Interfaces\\IContactsRepositories.cs",
+              "RelativeDocumentMoniker": "System_BLL\\Interfaces\\IContactsRepositories.cs",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\System_BLL\\Interfaces\\IContactsRepositories.cs",
+              "RelativeToolTip": "System_BLL\\Interfaces\\IContactsRepositories.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:59:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\System_BLL\\Repositories\\ContactsRepositories.cs",
+              "RelativeDocumentMoniker": "System_BLL\\Repositories\\ContactsRepositories.cs",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\System_BLL\\Repositories\\ContactsRepositories.cs",
+              "RelativeToolTip": "System_BLL\\Repositories\\ContactsRepositories.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:57:27.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Simple_Contact_Manage_System\\Views\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "Simple_Contact_Manage_System\\Views\\Contacts\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:49:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simple_Contact_Manage_System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simple_Contact_Manage_System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T05:58:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simple_Contact_Manage_System\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "Simple_Contact_Manage_System\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T04:48:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple_Contact_Manage_System\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "Simple_Contact_Manage_System\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T04:43:26.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Simple_Contact_Manage_System\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\Desktop\\.Net\\Simple_Contact_Manage_System_Solution\\Simple_Contact_Manage_System\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Simple_Contact_Manage_System\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:48:11.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
